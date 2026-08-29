@@ -1,2 +1,2 @@
 # neon-rush
-An original arcade racing game with progression, upgrades, multiple tracks, and AI opponents.
+An original arcade racing game set on a straight road with progression, upgrades, and AI opponents.
